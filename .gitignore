@@ -1,6 +1,13 @@
-# IntelliJ IDEA
+# Maven
+target/
+**/target/
+
+# IntelliJ
 .idea/
 *.iml
+
+# OS
+.DS_Store
 
 # Compiled class file
 *.class
