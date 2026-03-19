@@ -16,7 +16,6 @@ public class LogStimulusEventPublisherAdapter implements StimulusEventPublisherP
                 metadata.eventType(),
                 metadata.eventVersion(),
                 metadata.correlationId().value()
-                //Comment
         );
     }
 }
